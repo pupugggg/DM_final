@@ -1,5 +1,5 @@
-# DM_final
-
+# DM_final 第13組
+B10715043王詠生
 # 實驗環境
 ## gcluster1:
 google colab
