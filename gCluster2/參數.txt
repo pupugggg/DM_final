@@ -1,2 +1,0 @@
-Diamond9: H_data.txt, 30, 0.075, 3
-Cluto t4.8k:  H_data2.txt, 50, 0.0845, 3
