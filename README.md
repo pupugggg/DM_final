@@ -29,14 +29,14 @@ https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/dat
  * (2)執行DataSum_main.py
  * (3)設置參數
  * 例:
-  * 輸入主動變數屬性:x y
-  * 輸入被動屬性:z
-  * 輸入Epsilon:50
-  * 輸入裝置數量:1
-  * 輸入MinCells:1
-  * 輸入MinForce:1
-  * 輸入檔案名稱:cluto-4k-8k.txt
-  * 輸入被動變數分段:1 2 3
+    * 輸入主動變數屬性:x y
+    * 輸入被動屬性:z
+    * 輸入Epsilon:50
+    * 輸入裝置數量:1
+    * 輸入MinCells:1
+    * 輸入MinForce:1
+    * 輸入檔案名稱:cluto-4k-8k.txt
+    * 輸入被動變數分段:1 2 3
  * (4)生成兩個檔案，分別為H_data.txt和original_data.txt。
   * 前者記錄了資料彙總後的三個參數: (1)cell座標 (2)mass center (3)data points數量
   * 後者記錄了可拿來做視覺化比對的三個參數: (1)原始資料 (2)該資料所屬cell (3)該資料在原資料集所屬label
