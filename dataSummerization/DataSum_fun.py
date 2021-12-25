@@ -14,8 +14,6 @@ def Config():
     file.write(configuration + '\n')
     configuration = input("please input Epsilon:")
     file.write(configuration + '\n')
-    configuration = input("please input Normalization criterion:")
-    file.write(configuration + '\n')
     configuration = input("please input NumDeviecs:")
     file.write(configuration + '\n')
     configuration = input("please input MinCells:")
