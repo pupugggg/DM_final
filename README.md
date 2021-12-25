@@ -25,8 +25,8 @@ https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/dat
 * 第一行請輸入屬性，後續放入資料
 * 例:
    * x y class
-   * 1 2 3
-   * 2 3 4
+   * 1,2,3
+   * 2,3,4
    
 2.操作方式
  * (1)將資料放入Data資料夾
