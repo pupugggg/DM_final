@@ -20,13 +20,13 @@ https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/dat
 1.資料格式
 * 第一行請輸入屬性，後續放入資料
 * 例:x y class
-  * 1 2 3
-  * 2 3 4
+ * 1 2 3
+ * 2 3 4
    
 2.操作方式
  * (1)將資料放入Data資料夾
  * (2)執行DataSum_main.py
- (3)設置參數
+ * (3)設置參數
  例:
  輸入主動變數屬性:x y
  輸入被動屬性:z
