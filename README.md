@@ -22,7 +22,7 @@ https://github.com/deric/clustering-benchmark/blob/master/src/main/resources/dat
 # 操作說明
 ## data summerization :
 1.資料格式
-* 第一行請輸入屬性，後續放入資料
+* 第一行請輸入屬性(最後一個為class)，後續放入資料
 * 例:
    * x y class
    * 1,2,3
